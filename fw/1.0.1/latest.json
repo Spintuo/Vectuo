@@ -1,0 +1,9 @@
+{
+    "version": "1.0.1",
+    "file": "fw_1.0.1.bin.enc",
+    "sha256_plain": "c250d697e6871cdcfff92880a0d0858026db6f3ed317ba865f5669d18de5c8b6",
+    "sha256_enc": "f7aacbc38d5dff6c855e22dbe50e4b02562a944362ada834472c2d962b087727",
+    "encryption": "AES-256-GCM",
+    "signature_algorithm": "Ed25519",
+    "signature": "b66124b10954fece5765f6658dbabbf726f2968d4fcd97e49c4a89a841bcf6d95d225e0051bda8e2f9f6fbf42d334836899578de1a687f7330609e38c4bf9702"
+}
