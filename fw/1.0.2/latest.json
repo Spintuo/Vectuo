@@ -1,0 +1,9 @@
+{
+    "version": "1.0.2",
+    "file": "power_supply_V2_autoupdate.bin.enc",
+    "sha256_plain": "69017a1d3e9c14eff89e08bc9700d312d08230552602d3c4ec64b345a381f7f1",
+    "sha256_enc": "e5c524266d2e7e9828f302f8c0468b0414f6ee74de0f933650df0e6ead0f1c1b",
+    "encryption": "AES-256-GCM",
+    "signature_algorithm": "Ed25519",
+    "signature": "91bb3ba9ef2d7b5e778d1fb8186eb60fbc9f88ae57416fffff3ba098c063b26390f07e477f9e6b6556a5a704c10708bd75601ec55103c510820b70de370d8606"
+}
