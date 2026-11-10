@@ -1,0 +1,10 @@
+{
+  "release": {
+    "version": "1.5.4",
+    "kind": "windows-installer",
+    "url": "https://github.com/Spintuo/Vectuo/releases/download/vectuo-v1.5.4/Vectuo-Setup-1.5.4.exe",
+    "size": 531777203,
+    "sha256": "7a8d5ac061ecd41ea9e1c495b9fd21c972652b3eac369dfda504f8415f2fb865"
+  },
+  "signature": "QBrE9Dq8mpG7G6CigtefaUqVWE9Bmsi+nkXo8MR0M2zUzPrOUv2GZUdJuimv3EHZajDflJeDpyBmN9sseLsUBA=="
+}
